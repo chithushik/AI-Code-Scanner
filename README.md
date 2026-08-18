@@ -12,6 +12,8 @@ An intelligent DevSecOps tool built with Python, FastAPI, and Hugging Face Trans
 * **Interactive Web UI**: A clean, user-friendly browser interface powered by FastAPI.
 
 ---
+<img width="1088" height="762" alt="ss" src="https://github.com/user-attachments/assets/a6ff2638-757e-4adf-8816-8f8e96f69738" />
+
 
 ## 🛠️ Tech Stack
 
@@ -33,3 +35,5 @@ Ensure you have **Python 3.10+** and **Git** installed on your system.
 ```bash
 git clone [https://github.com/chithushik/AI-Code-Scanner.git](https://github.com/chithushik/AI-Code-Scanner.git)
 cd AI-Code-Scanner
+
+
